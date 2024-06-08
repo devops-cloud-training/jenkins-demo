@@ -4,7 +4,9 @@ storage_user_ids = [
   "anthony",
   "raj",
   "raghu",
-  "shubam"
+  "shubam",
+  "abc",
+  "xyz"
 ]
 admin_user_ids = [
   "sathish",
